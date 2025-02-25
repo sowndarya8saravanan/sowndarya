@@ -1,3 +1,5 @@
 need to use python idle
-install library
+
+import library
+
 install opencv library
