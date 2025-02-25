@@ -1,7 +1,9 @@
-need to use python idle
+SECURE DATA HIDING IN IMAGE USING STEGANOGRAPHY
 
-import library
+~ Need to use python idle
 
-install opencv library:
+~ import library
+
+~ install opencv library:
 
 pip install opencv-python
